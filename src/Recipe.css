@@ -1,0 +1,27 @@
+.container{
+    border:1px solid red;
+    border-radius:5px;
+    width:800px;
+    background-color:floralwhite;
+  
+    align-items:center;
+    margin:20px;
+   
+   
+}
+.comp{
+    background-color:floralwhite;
+
+}
+.ingredient{
+    list-style-type: none;
+    background-color:floralwhite;
+}
+.imging{
+    display:flex;
+    margin:10px;
+    padding:20px;
+
+    background-color:floralwhite;
+
+}
